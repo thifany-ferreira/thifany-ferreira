@@ -36,7 +36,7 @@
 
 ### 📌 Projetos em destaque
 
-[![Apresentação interativa](https://img.shields.io/badge/▶_Apresentação_interativa-ver_projetos_com_demo-3EE6D6?style=for-the-badge)](https://thifany-ferreira.github.io/apresentacao)
+[![Apresentação interativa](https://img.shields.io/badge/▶_Ver_apresentação_interativa-3EE6D6?style=for-the-badge)](https://thifany-ferreira.github.io/apresentacao)
 
 | Projeto | O que faz | Stack |
 |---|---|---|
