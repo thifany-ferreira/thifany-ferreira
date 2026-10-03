@@ -46,4 +46,4 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thifanyferreira)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thifany.ferenz@gmail.com) `thifany.ferenz@gmail.com`
+[![E-mail](https://img.shields.io/badge/thifany.ferenz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thifany.ferenz@gmail.com)
