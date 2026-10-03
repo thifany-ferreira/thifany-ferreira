@@ -1,4 +1,4 @@
-## Olá, eu sou a Thifany 👋
+[## Olá, eu sou a Thifany 👋
 
 **QA Engineer** com 3+ anos em fintech, focada em **automação de testes** e **qualidade e segurança de sistemas com IA**. Pós-graduada em Engenharia de Inteligência Artificial.
 
@@ -47,3 +47,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thifanyferreira)
 [![E-mail](https://img.shields.io/badge/thifany.ferenz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thifany.ferenz@gmail.com)
+](https://github.com/thifany-ferreira/thifany-ferreira/edit/main/README.md)
