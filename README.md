@@ -36,6 +36,8 @@
 
 ### 📌 Projetos em destaque
 
+[![Apresentação interativa](https://img.shields.io/badge/▶_Apresentação_interativa-ver_projetos_com_demo-3EE6D6?style=for-the-badge)](https://thifany-ferreira.github.io/apresentacao)
+
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [llm-chatbot-security-tests](https://github.com/thifany-ferreira/llm-chatbot-security-tests) | Suíte de testes de segurança para chatbot com IA: prompt injection, vazamento entre clientes, mascaramento de dados pessoais e prova de eficácia contra um bot vulnerável | Python · pytest · GitHub Actions |
