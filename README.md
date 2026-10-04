@@ -4,7 +4,7 @@
 
 - 🔍 Sou responsável pela validação final das entregas antes da produção
 - 🤖 Testo chatbots com IA em 5 países: prompt injection, vazamento de dados e compliance
-- ⚙️ Automatizo testes web e de API e crio monitoramentos com alertas automáticos
+- ⚙️ Automatizo testes web, de API e de performance e crio monitoramentos com alertas automáticos
 - 🌎 Português nativo · Espanhol avançado · Inglês técnico
 
 ### 🛠️ Stack
@@ -18,12 +18,14 @@
 ![RestAssured](https://img.shields.io/badge/RestAssured-2E7D32?style=flat)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Linguagens**
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -46,6 +48,7 @@
 | [llm-chatbot-security-tests](https://github.com/thifany-ferreira/llm-chatbot-security-tests) | Suíte de testes de segurança para chatbot com IA: prompt injection, vazamento entre clientes, mascaramento de dados pessoais e prova de eficácia contra um bot vulnerável | Python · pytest · GitHub Actions |
 | [qa-health-monitor](https://github.com/thifany-ferreira/qa-health-monitor) | Monitor de saúde que roda sozinho todo dia útil: checagens de UI e API com semáforo 🟢🟡🔴, classificador que separa bug real de ruído e relatórios no Slack e em planilha | Ruby · Capybara · Selenium · GitHub Actions |
 | [serverest-api-tests](https://github.com/thifany-ferreira/serverest-api-tests) | 30 testes de API REST: CRUD, cenários negativos, autorização (401/403) e contrato com JSON Schema, com a API subindo isolada no CI | Java · RestAssured · JUnit 5 · GitHub Actions |
+| [serverest-performance-tests](https://github.com/thifany-ferreira/serverest-performance-tests) | Smoke, carga e estresse com jornadas reais de usuário e metas (SLOs) de p95, p99 e taxa de erro que reprovam o CI | k6 · JavaScript · GitHub Actions |
 
 ### 📫 Contato
 
