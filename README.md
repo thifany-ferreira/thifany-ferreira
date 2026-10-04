@@ -3,7 +3,7 @@
 **QA Engineer** com 3+ anos em fintech, focada em **automação de testes** e **qualidade e segurança de sistemas com IA**. Pós-graduada em Engenharia de Inteligência Artificial.
 
 - 🔍 Sou responsável pela validação final das entregas antes da produção
-- 🤖 Testo chatbots com IA em 5 países: prompt injection, vazamento de dados e compliance
+- 🤖 Testo chatbots com IA em 5 países: prompt injection, vazamento de dados, alucinação e compliance
 - ⚙️ Automatizo testes web, de API e de performance e crio monitoramentos com alertas automáticos
 - 🌎 Português nativo · Espanhol avançado · Inglês técnico
 
@@ -33,6 +33,8 @@
 **IA e ferramentas**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-8B7BFF?style=flat)
+![RAG](https://img.shields.io/badge/RAG-3EE6D6?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,6 +48,7 @@
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [llm-chatbot-security-tests](https://github.com/thifany-ferreira/llm-chatbot-security-tests) | Suíte de testes de segurança para chatbot com IA: prompt injection, vazamento entre clientes, mascaramento de dados pessoais e prova de eficácia contra um bot vulnerável | Python · pytest · GitHub Actions |
+| [llm-answer-quality-evals](https://github.com/thifany-ferreira/llm-answer-quality-evals) | Avaliação da qualidade das respostas de uma IA com RAG: golden dataset em 3 idiomas, detecção de alucinação, recusa, citação, juiz LLM e metas que reprovam o CI | Python · pytest · LLM evals |
 | [qa-health-monitor](https://github.com/thifany-ferreira/qa-health-monitor) | Monitor de saúde que roda sozinho todo dia útil: checagens de UI e API com semáforo 🟢🟡🔴, classificador que separa bug real de ruído e relatórios no Slack e em planilha | Ruby · Capybara · Selenium · GitHub Actions |
 | [serverest-api-tests](https://github.com/thifany-ferreira/serverest-api-tests) | 30 testes de API REST: CRUD, cenários negativos, autorização (401/403) e contrato com JSON Schema, com a API subindo isolada no CI | Java · RestAssured · JUnit 5 · GitHub Actions |
 | [serverest-performance-tests](https://github.com/thifany-ferreira/serverest-performance-tests) | Smoke, carga e estresse com jornadas reais de usuário e metas (SLOs) de p95, p99 e taxa de erro que reprovam o CI | k6 · JavaScript · GitHub Actions |
